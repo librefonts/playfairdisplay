@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="PlayfairDisplay-Regular.otf.GlyphOrder.ttx"/>
+  <head src="PlayfairDisplay-Regular.otf._h_e_a_d.ttx"/>
+  <hhea src="PlayfairDisplay-Regular.otf._h_h_e_a.ttx"/>
+  <maxp src="PlayfairDisplay-Regular.otf._m_a_x_p.ttx"/>
+  <OS_2 src="PlayfairDisplay-Regular.otf.O_S_2f_2.ttx"/>
+  <name src="PlayfairDisplay-Regular.otf._n_a_m_e.ttx"/>
+  <cmap src="PlayfairDisplay-Regular.otf._c_m_a_p.ttx"/>
+  <post src="PlayfairDisplay-Regular.otf._p_o_s_t.ttx"/>
+  <CFF src="PlayfairDisplay-Regular.otf.C_F_F_.ttx"/>
+  <GDEF src="PlayfairDisplay-Regular.otf.G_D_E_F_.ttx"/>
+  <GPOS src="PlayfairDisplay-Regular.otf.G_P_O_S_.ttx"/>
+  <GSUB src="PlayfairDisplay-Regular.otf.G_S_U_B_.ttx"/>
+  <hmtx src="PlayfairDisplay-Regular.otf._h_m_t_x.ttx"/>
+</ttFont>
