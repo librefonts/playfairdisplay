@@ -1,0 +1,11 @@
+commit: HEAD
+process_files: [src/Playfair Display-BoldItalic.ufo, src/Playfair Display-RegularItalic.ufo,
+  src/Playfair Display-Bold.ufo, src/Playfair Display-Regular.ufo, src/Playfair Display-Bold
+    Italic.ufo, src/Playfair Display-Regular Italic.ufo, PlayfairDisplay-Black.ttf.ttx,
+  PlayfairDisplay-Italic.ttf.ttx, PlayfairDisplay-Regular.ttf.ttx, PlayfairDisplay-BlackItalic.ttf.ttx,
+  PlayfairDisplay-Bold.ttf.ttx, PlayfairDisplay-BoldItalic.ttf.ttx, src/PlayfairDisplay-Italic.otf.ttx,
+  src/PlayfairDisplay-Regular.otf.ttx, src/PlayfairDisplay-Black.otf.ttx, src/PlayfairDisplay-BoldItalic.otf.ttx,
+  src/PlayfairDisplay-Bold.otf.ttx, src/PlayfairDisplay-BlackItalic.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
